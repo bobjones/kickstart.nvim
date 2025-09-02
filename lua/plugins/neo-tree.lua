@@ -9,4 +9,19 @@ return {
     },
     lazy = false, -- neo-tree will lazily load itself
   },
+
+  --  opts = {
+  --    -- Other Neo-tree configuration settings
+  --    window = {
+  --      mappings = {
+  --        -- Your custom keybindings go here
+  --        -- ["<c-e>"] = "open_vsplit",
+  --        -- ["a"] = "add",
+  --        -- ["d"] = "delete",
+  --        -- ["r"] = "rename",
+  --        -- ["s"] = "open_hsplit",
+  --        -- ... and so on
+  --      },
+  --    },
+  --  },
 }
